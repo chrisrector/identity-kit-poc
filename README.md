@@ -124,7 +124,7 @@ The services will be running at the following endpoints:
 
 - `identity-controller`: http://localhost:5000
 
-- `wa-admin` Administrator app: http://localhost:4250
+- `wa-admin` Administrator app: http://localhost:8081
 
 - `wa-public` Issuer app: http://localhost:4251
 
